@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Software Architecture Patterns](README.md)
 
 ## The Company
 

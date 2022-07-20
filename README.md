@@ -1,8 +1,9 @@
 ---
+description: Mark Richards
 coverY: 0
 ---
 
-# Welcome!
+# Software Architecture Patterns
 
 ## Welcome aboard!
 
