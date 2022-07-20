@@ -17,3 +17,7 @@
 * [Broker Topology](event-driven-architecture/broker-topology.md)
 * [Considerations](event-driven-architecture/considerations.md)
 * [Pattern Analysis](event-driven-architecture/pattern-analysis.md)
+
+## معماری میکروکرنل <a href="#microkernel-architecture" id="microkernel-architecture"></a>
+
+* [توضیح الگو](microkernel-architecture/pattern-description.md)
