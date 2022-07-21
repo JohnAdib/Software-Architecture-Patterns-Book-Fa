@@ -21,3 +21,15 @@
 ## معماری میکروکرنل <a href="#microkernel-architecture" id="microkernel-architecture"></a>
 
 * [توضیح الگو](microkernel-architecture/pattern-description.md)
+* [مفاهیم کلیدی](microkernel-architecture/key-concepts.md)
+* [نمونه الگو](microkernel-architecture/pattern-example.md)
+* [ملاحظات](microkernel-architecture/considerations.md)
+* [تحلیل الگو](microkernel-architecture/pattern-analysis.md)
+
+## معماری رویداد محور <a href="#event-driven-architecture" id="event-driven-architecture"></a>
+
+* [توپولوژی میانجی](event-driven-architecture-1/mediator-topology.md)
+* [توپولوژی کارگزار](event-driven-architecture-1/broker-topology.md)
+* [ملاحظات](event-driven-architecture-1/considerations.md)
+* [تحلیل الگو](<event-driven-architecture-1/Pattern Analysis.md>)
+* [](event-driven-architecture-1/pattern-analysis.md)
