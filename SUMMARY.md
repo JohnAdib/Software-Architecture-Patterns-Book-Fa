@@ -47,3 +47,5 @@
 * [الگو و توضیحات](<Microservices Architecture Pattern/Pattern-Description.md>)
 * [توپولوژی های الگو](<Microservices Architecture Pattern/Pattern Topologies.md>)
 * [از وابستگی ها و ارکستراسیون اجتناب کنید](<Microservices Architecture Pattern/Avoid Dependencies and Orchestration.md>)
+* [ملاحظات](<Microservices Architecture Pattern/Considerations.md>)
+* [Page 1](<Microservices Architecture Pattern/page-1.md>)
