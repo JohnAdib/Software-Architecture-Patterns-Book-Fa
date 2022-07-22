@@ -49,3 +49,18 @@
 * [از وابستگی ها و ارکستراسیون اجتناب کنید](<Microservices Architecture Pattern/Avoid Dependencies and Orchestration.md>)
 * [ملاحظات](<Microservices Architecture Pattern/Considerations.md>)
 * [تحلیل الگو](<Microservices Architecture Pattern/Pattern Analysis.md>)
+
+## معماری مبتنی بر فضا <a href="#Space-Based Architecture" id="Space-Based Architecture"></a>
+
+* [الگو و توضیحات](<Space-Based Architecture/Pattern Description.md>)
+* [دینامیک الگو](<Space-Based Architecture/Pattern Dynamics.md>)
+* [شبکه پیام رسانی](<Space-Based Architecture/Messaging Grid.md>)
+* [شبکه داده](<Space-Based Architecture/Data Grid.md>)
+* [شبکه پردازش](<Space-Based Architecture/Processing Grid.md>)
+* [مدیر استقرار](<Space-Based Architecture/Deployment Manager.md>)
+* [ملاحظات](<Space-Based Architecture/Considerations.md>)
+* [تحلیل الگو](<Space-Based Architecture/Pattern Analysis.md>)
+
+***
+
+* [خلاصه تحلیل الگو](<Pattern Analysis Summary.md>)
