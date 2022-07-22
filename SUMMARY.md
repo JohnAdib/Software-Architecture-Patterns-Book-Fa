@@ -37,3 +37,4 @@
 ## مهماری میکروکرنل <a href="#microkernel-architecture" id="microkernel-architecture"></a>
 
 * [تحلیل الگو](microkernel-architecture-1/pattern-description.md)
+* [نمونه های الگو](<microkernel-architecture-1/Pattern Examples.md>)
