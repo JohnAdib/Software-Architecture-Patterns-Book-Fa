@@ -52,6 +52,7 @@
 
 ## معماری مبتنی بر فضا <a href="#Space-Based Architecture" id="Space-Based Architecture"></a>
 
+* [معماری مبتنی بر فضا](<Space-Based Architecture/Space-Based Architecture.md>)
 * [الگو و توضیحات](<Space-Based Architecture/Pattern Description.md>)
 * [دینامیک الگو](<Space-Based Architecture/Pattern Dynamics.md>)
 * [شبکه پیام رسانی](<Space-Based Architecture/Messaging Grid.md>)
