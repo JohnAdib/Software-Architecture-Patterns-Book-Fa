@@ -64,3 +64,4 @@
 ***
 
 * [خلاصه تحلیل الگو](<Pattern Analysis Summary.md>)
+* [درباره نویسنده](<About the Author.md>)
