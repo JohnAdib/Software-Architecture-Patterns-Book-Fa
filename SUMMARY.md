@@ -18,7 +18,7 @@
 * [Considerations](event-driven-architecture/considerations.md)
 * [Pattern Analysis](event-driven-architecture/pattern-analysis.md)
 
-## معماری میکروکرنل <a href="#microkernel-architecture" id="microkernel-architecture"></a>
+## معماری لایه ای <a href="#microkernel-architecture" id="microkernel-architecture"></a>
 
 * [توضیح الگو](microkernel-architecture/pattern-description.md)
 * [مفاهیم کلیدی](microkernel-architecture/key-concepts.md)
@@ -33,3 +33,7 @@
 * [ملاحظات](event-driven-architecture-1/considerations.md)
 * [تحلیل الگو](<event-driven-architecture-1/Pattern Analysis.md>)
 * [](event-driven-architecture-1/pattern-analysis.md)
+
+## مهماری میکروکرنل <a href="#microkernel-architecture" id="microkernel-architecture"></a>
+
+* [تحلیل الگو](microkernel-architecture-1/pattern-description.md)
