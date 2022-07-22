@@ -40,3 +40,9 @@
 * [نمونه های الگو](<microkernel-architecture-1/Pattern Examples.md>)
 * [ملاحظات](microkernel-architecture-1/Considerations.md)
 * [تحلیل الگو](<microkernel-architecture-1/Pattern Analysis.md>)
+
+## الگوی معماری میکروسرویس ها <a href="#Microservices Architecture Pattern" id="Microservices Architecture Pattern"></a>
+
+* [الگوی معماری میکروسرویس‌ها](<Microservices Architecture Pattern/algwy-mamary-mykrwsrwys-ha.md>)
+* [الگو و توضیحات](<Microservices Architecture Pattern/Pattern-Description.md>)
+* [توپولوژی های الگو](<Microservices Architecture Pattern/Pattern Topologies.md>)
