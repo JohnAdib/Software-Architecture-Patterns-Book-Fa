@@ -38,3 +38,4 @@
 
 * [تحلیل الگو](microkernel-architecture-1/pattern-description.md)
 * [نمونه های الگو](<microkernel-architecture-1/Pattern Examples.md>)
+* [ملاحظات](microkernel-architecture-1/Considerations.md)
