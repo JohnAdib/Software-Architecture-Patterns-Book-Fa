@@ -32,7 +32,6 @@
 * [توپولوژی کارگزار](event-driven-architecture-1/broker-topology.md)
 * [ملاحظات](event-driven-architecture-1/considerations.md)
 * [تحلیل الگو](<event-driven-architecture-1/Pattern Analysis.md>)
-* [](event-driven-architecture-1/pattern-analysis.md)
 
 ## مهماری میکروکرنل <a href="#microkernel-architecture" id="microkernel-architecture"></a>
 
@@ -41,7 +40,7 @@
 * [ملاحظات](microkernel-architecture-1/Considerations.md)
 * [تحلیل الگو](<microkernel-architecture-1/Pattern Analysis.md>)
 
-## الگوی معماری میکروسرویس ها <a href="#Microservices Architecture Pattern" id="Microservices Architecture Pattern"></a>
+## الگوی معماری میکروسرویس ها <a href="#microservices-architecture-pattern" id="microservices-architecture-pattern"></a>
 
 * [الگوی معماری میکروسرویس‌ها](<Microservices Architecture Pattern/algwy-mamary-mykrwsrwys-ha.md>)
 * [الگو و توضیحات](<Microservices Architecture Pattern/Pattern-Description.md>)
@@ -50,7 +49,7 @@
 * [ملاحظات](<Microservices Architecture Pattern/Considerations.md>)
 * [تحلیل الگو](<Microservices Architecture Pattern/Pattern Analysis.md>)
 
-## معماری مبتنی بر فضا <a href="#Space-Based Architecture" id="Space-Based Architecture"></a>
+## معماری مبتنی بر فضا <a href="#space-based-architecture" id="space-based-architecture"></a>
 
 * [معماری مبتنی بر فضا](<Space-Based Architecture/Space-Based Architecture.md>)
 * [الگو و توضیحات](<Space-Based Architecture/Pattern Description.md>)
